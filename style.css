@@ -1,0 +1,33 @@
+body  {
+    display: flex;
+    background-color: #F2F2F2;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+section {
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    border-radius: 20px;
+    box-shadow: 0px 25px 25px rgba(0, 0, 0, 0.0476518);
+    overflow: hidden;
+    padding: 1%;
+}
+img{
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 6%;
+}
+h2{
+    color: #1F314F;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 5%;
+  
+}
+p{
+    color: #7D889E;
+    text-align: center;
+}
